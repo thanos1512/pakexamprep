@@ -10,4 +10,4 @@ Free notes and MCQs for Pakistani government job tests (FPSC, AJK PSC): Geograph
 - `src/static/` — CSS, JS and icons, copied as-is.
 - `build.py` — run `python3 build.py` to regenerate `site/`.
 
-Vercel serves the `site/` folder (see `vercel.json`); no build step runs on Vercel.
+Cloudflare serves the `site/` folder (see `wrangler.jsonc`). Run `python3 build.py` and commit `site/` before pushing; no build step runs on Cloudflare.
