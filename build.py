@@ -17,7 +17,7 @@ import re
 import shutil
 from pathlib import Path
 
-BASE_URL = "https://pakexamprep.vercel.app"
+BASE_URL = "https://pakexamprep.mujtabashafiq56.workers.dev"
 SITE_NAME = "PakExamPrep"
 ROOT = Path(__file__).parent
 SRC = ROOT / "src"
