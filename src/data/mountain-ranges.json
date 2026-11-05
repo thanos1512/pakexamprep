@@ -1,0 +1,30 @@
+{
+  "heading": "Practice MCQs: 25 questions",
+  "questions": [
+    {"q": "Which is the highest peak in Pakistan?", "options": ["Nanga Parbat", "K2", "Tirich Mir", "Rakaposhi"], "answer": "b", "why": "At 8,611 m it is also the second-highest peak in the world."},
+    {"q": "K2 is located in which mountain range?", "options": ["Himalaya", "Hindu Kush", "Karakoram", "Pamir"], "answer": "c", "why": "It sits on the Pakistan-China border in Gilgit-Baltistan."},
+    {"q": "Nanga Parbat belongs to which range?", "options": ["Karakoram", "Himalaya", "Hindu Kush", "Safed Koh"], "answer": "b", "why": "It marks the western end of the Great Himalaya."},
+    {"q": "What is the highest peak of the Hindu Kush?", "options": ["Noshaq", "Tirich Mir", "Istor-o-Nal", "Rakaposhi"], "answer": "b", "why": "At 7,708 m, it stands in Chitral. Rakaposhi is in the Karakoram."},
+    {"q": "How many of the world's fourteen 8,000-metre peaks are in Pakistan?", "options": ["3", "4", "5", "6"], "answer": "c", "why": "K2, Nanga Parbat, Gasherbrum I, Broad Peak and Gasherbrum II."},
+    {"q": "Which is the longest glacier in the Karakoram?", "options": ["Baltoro", "Biafo", "Siachen", "Batura"], "answer": "c", "why": "Siachen is about 76 km long. Biafo and Baltoro come next."},
+    {"q": "The Khunjerab Pass connects Pakistan with which country?", "options": ["Afghanistan", "China", "India", "Tajikistan"], "answer": "b", "why": "The Karakoram Highway crosses the border here."},
+    {"q": "Which peak is known as the \"Killer Mountain\"?", "options": ["K2", "Nanga Parbat", "Broad Peak", "Masherbrum"], "answer": "b", "why": "Don't mix it up with K2, which is called the \"Savage Mountain\"."},
+    {"q": "The Khyber Pass lies in which range?", "options": ["Sulaiman", "Safed Koh", "Toba Kakar", "Kirthar"], "answer": "b", "why": "Safed Koh is also called Spin Ghar. The pass links Peshawar with Torkham and Kabul."},
+    {"q": "The Bolan Pass connects which two places?", "options": ["Peshawar and Kabul", "Sibi and Quetta", "Quetta and Chaman", "Dir and Chitral"], "answer": "b", "why": "Quetta and Chaman are linked by the Khojak Pass instead."},
+    {"q": "The Khojak Pass is in which range?", "options": ["Kirthar", "Toba Kakar", "Sulaiman", "Chagai Hills"], "answer": "b", "why": "The Khojak railway tunnel runs beneath it."},
+    {"q": "The hill station Fort Munro lies in which range?", "options": ["Kirthar", "Sulaiman", "Salt Range", "Margalla Hills"], "answer": "b", "why": "It is near Dera Ghazi Khan."},
+    {"q": "The Shandur Pass connects:", "options": ["Chitral and Gilgit", "Kaghan and Chilas", "Dir and Chitral", "Hunza and Xinjiang"], "answer": "a", "why": "It hosts the famous Shandur polo festival."},
+    {"q": "Which range forms the border between Sindh and Balochistan?", "options": ["Sulaiman", "Kirthar", "Toba Kakar", "Makran Coast Range"], "answer": "b", "why": "It runs north to south along the provincial boundary."},
+    {"q": "Gorakh Hill, the \"Murree of Sindh\", is part of which range?", "options": ["Kirthar", "Salt Range", "Sulaiman", "Chagai Hills"], "answer": "a", "why": "It lies near Dadu."},
+    {"q": "Pakistan's nuclear tests of 28 May 1998 were carried out in:", "options": ["Kirthar Range", "Ras Koh Hills, Chagai", "Salt Range", "Sulaiman Range"], "answer": "b", "why": "The Ras Koh Hills are in Chagai district, north-western Balochistan."},
+    {"q": "The Khewra Salt Mine is located in:", "options": ["Kirthar Range", "Salt Range", "Potohar Plateau", "Margalla Hills"], "answer": "b", "why": "It is in Jhelum district, Punjab."},
+    {"q": "What is the highest point of the Salt Range?", "options": ["Tilla Jogian", "Sakesar", "Takht-e-Sulaiman", "Gorakh Hill"], "answer": "b", "why": "Sakesar is about 1,522 m. Tilla Jogian is a well-known but lower hill in the same range."},
+    {"q": "The Salt Range lies between which two rivers?", "options": ["Ravi and Chenab", "Chenab and Jhelum", "Jhelum and Indus", "Indus and Kabul"], "answer": "c", "why": "The Potohar Plateau lies to its north."},
+    {"q": "The Margalla Hills are part of:", "options": ["Karakoram", "Himalayan foothills", "Salt Range", "Hindu Kush"], "answer": "b", "why": "They rise on the northern edge of Islamabad."},
+    {"q": "The Lowari Pass connects:", "options": ["Dir and Chitral", "Chitral and Gilgit", "Kaghan and Chilas", "Peshawar and Kabul"], "answer": "a", "why": "The Lowari Tunnel now keeps the route open in winter."},
+    {"q": "Rakaposhi overlooks which valley?", "options": ["Swat", "Hunza-Nagar", "Kaghan", "Neelum"], "answer": "b", "why": "It is a Karakoram peak, visible from the Karakoram Highway."},
+    {"q": "In which year was K2 first climbed?", "options": ["1953", "1954", "1960", "1978"], "answer": "b", "why": "An Italian expedition made the first ascent. 1953 is the year of Nanga Parbat's first ascent, a common trap."},
+    {"q": "The Reko Diq copper-gold deposit is located in:", "options": ["Chagai district", "Kirthar Range", "Salt Range", "Makran"], "answer": "a", "why": "It is in Balochistan, close to the Saindak project."},
+    {"q": "The Gomal Pass lies in which region?", "options": ["Chitral", "Waziristan Hills", "Khyber", "Toba Kakar"], "answer": "b", "why": "It links Dera Ismail Khan with Afghanistan."}
+  ]
+}
